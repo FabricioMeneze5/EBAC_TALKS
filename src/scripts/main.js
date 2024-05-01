@@ -1,1 +1,1 @@
-console.log('faz coco');
+AOS.init();
